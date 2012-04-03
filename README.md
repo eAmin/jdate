@@ -1,10 +1,10 @@
-#jdate
+#JDate
 
 JDate v0.0.1 beta
 
 JDate, is a JavaScript like Jalali date & time library for JavaScript & NodeJS
 
-#usage
+#Usage
 
 	var jdate = JDate();
 	
@@ -20,7 +20,7 @@ JDate, is a JavaScript like Jalali date & time library for JavaScript & NodeJS
 
 	// coming soon
 
-#author
+#Author
 Amin AKbari
 http://eamin.me/
 
