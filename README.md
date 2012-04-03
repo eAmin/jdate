@@ -21,9 +21,9 @@ JDate, is a JavaScript like Jalali date & time library for JavaScript & NodeJS
 	// coming soon
 
 #author
-	Amin AKbari
-	http://eamin.me/
+Amin AKbari
+http://eamin.me/
 
 #License
 
-	Licensed under the MIT Style License
+Licensed under the MIT Style License
