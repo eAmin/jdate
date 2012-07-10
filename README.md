@@ -2,7 +2,7 @@
 
 JDate v0.0.2 beta
 
-JDate, is a JavaScript like Jalali date & time library for JavaScript & NodeJS
+JDate, is a JavaScript like Jalali date & time library for Browsers & NodeJS
 
 ##Usage
 
