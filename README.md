@@ -1,11 +1,12 @@
 ##JDate
 
-JDate v0.0.1 beta
+JDate v0.0.2 beta
 
 JDate, is a JavaScript like Jalali date & time library for JavaScript & NodeJS
 
 ##Usage
 
+##Browsers
 	var jdate = JDate();
 	
 	console.log(jdate.getFullYear()); // 1391
@@ -17,13 +18,9 @@ JDate, is a JavaScript like Jalali date & time library for JavaScript & NodeJS
 	console.log(jdate.toString('yyyy/MMMM/dd HH:mm:ss')); // 1391/01/15 22:08:50
 
 ##Node.JS
-
 to install use npm and insert folowing command `npm install jdate` and use in your project
 
-	// not necessary defining the variable
-	require('jdate');
-	
-	var jdate = JDate();
+	var jdate = require('jdate').JDate();
 	
 	console.log(jdate.getFullYear()); // 1391
 	console.log(jdate.getMonth()); // 01
@@ -36,8 +33,11 @@ to install use npm and insert folowing command `npm install jdate` and use in yo
 
 ##Author
 
-eAmin
-Copyright (c) 2012 Amin AKbari, http://eamin.me/
+Amin Akbari
+
+Copyright (c) 2012 Amin AKbari
+
+http://eamin.me/
 
 ##TODO:
 `JDate.parse()`

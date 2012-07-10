@@ -1,2 +1,1 @@
-// compitable with node.js
-module.export = require('./lib/jdate');
+module.exports = require('./lib/jdate');
